@@ -7,4 +7,6 @@ https://www.edureka.co/blog/sql-tutorial/
 
 https://www.edureka.co/blog/sql-server-tutorial
 
+https://www.edureka.co/blog/sql-commands
+
 
