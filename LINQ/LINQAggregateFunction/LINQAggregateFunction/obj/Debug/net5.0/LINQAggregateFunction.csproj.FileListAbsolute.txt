@@ -1,0 +1,15 @@
+C:\Users\diwjaisw\source\repos\LINQ\LINQAggregateFunction\LINQAggregateFunction\bin\Debug\net5.0\LINQAggregateFunction.exe
+C:\Users\diwjaisw\source\repos\LINQ\LINQAggregateFunction\LINQAggregateFunction\bin\Debug\net5.0\LINQAggregateFunction.deps.json
+C:\Users\diwjaisw\source\repos\LINQ\LINQAggregateFunction\LINQAggregateFunction\bin\Debug\net5.0\LINQAggregateFunction.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\LINQ\LINQAggregateFunction\LINQAggregateFunction\bin\Debug\net5.0\LINQAggregateFunction.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\LINQ\LINQAggregateFunction\LINQAggregateFunction\bin\Debug\net5.0\LINQAggregateFunction.dll
+C:\Users\diwjaisw\source\repos\LINQ\LINQAggregateFunction\LINQAggregateFunction\bin\Debug\net5.0\ref\LINQAggregateFunction.dll
+C:\Users\diwjaisw\source\repos\LINQ\LINQAggregateFunction\LINQAggregateFunction\bin\Debug\net5.0\LINQAggregateFunction.pdb
+C:\Users\diwjaisw\source\repos\LINQ\LINQAggregateFunction\LINQAggregateFunction\obj\Debug\net5.0\LINQAggregateFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\LINQ\LINQAggregateFunction\LINQAggregateFunction\obj\Debug\net5.0\LINQAggregateFunction.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\LINQ\LINQAggregateFunction\LINQAggregateFunction\obj\Debug\net5.0\LINQAggregateFunction.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\LINQ\LINQAggregateFunction\LINQAggregateFunction\obj\Debug\net5.0\LINQAggregateFunction.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\LINQ\LINQAggregateFunction\LINQAggregateFunction\obj\Debug\net5.0\LINQAggregateFunction.dll
+C:\Users\diwjaisw\source\repos\LINQ\LINQAggregateFunction\LINQAggregateFunction\obj\Debug\net5.0\ref\LINQAggregateFunction.dll
+C:\Users\diwjaisw\source\repos\LINQ\LINQAggregateFunction\LINQAggregateFunction\obj\Debug\net5.0\LINQAggregateFunction.pdb
+C:\Users\diwjaisw\source\repos\LINQ\LINQAggregateFunction\LINQAggregateFunction\obj\Debug\net5.0\LINQAggregateFunction.genruntimeconfig.cache

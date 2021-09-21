@@ -1,0 +1,16 @@
+C:\Users\diwjaisw\source\repos\LINQ\LINQMinFunction\LINQMinFunction\bin\Debug\net5.0\LINQMinFunction.exe
+C:\Users\diwjaisw\source\repos\LINQ\LINQMinFunction\LINQMinFunction\bin\Debug\net5.0\LINQMinFunction.deps.json
+C:\Users\diwjaisw\source\repos\LINQ\LINQMinFunction\LINQMinFunction\bin\Debug\net5.0\LINQMinFunction.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\LINQ\LINQMinFunction\LINQMinFunction\bin\Debug\net5.0\LINQMinFunction.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\LINQ\LINQMinFunction\LINQMinFunction\bin\Debug\net5.0\LINQMinFunction.dll
+C:\Users\diwjaisw\source\repos\LINQ\LINQMinFunction\LINQMinFunction\bin\Debug\net5.0\ref\LINQMinFunction.dll
+C:\Users\diwjaisw\source\repos\LINQ\LINQMinFunction\LINQMinFunction\bin\Debug\net5.0\LINQMinFunction.pdb
+C:\Users\diwjaisw\source\repos\LINQ\LINQMinFunction\LINQMinFunction\obj\Debug\net5.0\LINQMinFunction.csproj.AssemblyReference.cache
+C:\Users\diwjaisw\source\repos\LINQ\LINQMinFunction\LINQMinFunction\obj\Debug\net5.0\LINQMinFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\LINQ\LINQMinFunction\LINQMinFunction\obj\Debug\net5.0\LINQMinFunction.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\LINQ\LINQMinFunction\LINQMinFunction\obj\Debug\net5.0\LINQMinFunction.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\LINQ\LINQMinFunction\LINQMinFunction\obj\Debug\net5.0\LINQMinFunction.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\LINQ\LINQMinFunction\LINQMinFunction\obj\Debug\net5.0\LINQMinFunction.dll
+C:\Users\diwjaisw\source\repos\LINQ\LINQMinFunction\LINQMinFunction\obj\Debug\net5.0\ref\LINQMinFunction.dll
+C:\Users\diwjaisw\source\repos\LINQ\LINQMinFunction\LINQMinFunction\obj\Debug\net5.0\LINQMinFunction.pdb
+C:\Users\diwjaisw\source\repos\LINQ\LINQMinFunction\LINQMinFunction\obj\Debug\net5.0\LINQMinFunction.genruntimeconfig.cache

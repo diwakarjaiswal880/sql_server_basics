@@ -1,0 +1,16 @@
+C:\Users\diwjaisw\source\repos\LINQLambdaExpressionExample\LINQLambdaExpressionExample\bin\Debug\net5.0\LINQLambdaExpressionExample.exe
+C:\Users\diwjaisw\source\repos\LINQLambdaExpressionExample\LINQLambdaExpressionExample\bin\Debug\net5.0\LINQLambdaExpressionExample.deps.json
+C:\Users\diwjaisw\source\repos\LINQLambdaExpressionExample\LINQLambdaExpressionExample\bin\Debug\net5.0\LINQLambdaExpressionExample.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\LINQLambdaExpressionExample\LINQLambdaExpressionExample\bin\Debug\net5.0\LINQLambdaExpressionExample.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\LINQLambdaExpressionExample\LINQLambdaExpressionExample\bin\Debug\net5.0\LINQLambdaExpressionExample.dll
+C:\Users\diwjaisw\source\repos\LINQLambdaExpressionExample\LINQLambdaExpressionExample\bin\Debug\net5.0\ref\LINQLambdaExpressionExample.dll
+C:\Users\diwjaisw\source\repos\LINQLambdaExpressionExample\LINQLambdaExpressionExample\bin\Debug\net5.0\LINQLambdaExpressionExample.pdb
+C:\Users\diwjaisw\source\repos\LINQLambdaExpressionExample\LINQLambdaExpressionExample\obj\Debug\net5.0\LINQLambdaExpressionExample.csproj.AssemblyReference.cache
+C:\Users\diwjaisw\source\repos\LINQLambdaExpressionExample\LINQLambdaExpressionExample\obj\Debug\net5.0\LINQLambdaExpressionExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\LINQLambdaExpressionExample\LINQLambdaExpressionExample\obj\Debug\net5.0\LINQLambdaExpressionExample.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\LINQLambdaExpressionExample\LINQLambdaExpressionExample\obj\Debug\net5.0\LINQLambdaExpressionExample.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\LINQLambdaExpressionExample\LINQLambdaExpressionExample\obj\Debug\net5.0\LINQLambdaExpressionExample.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\LINQLambdaExpressionExample\LINQLambdaExpressionExample\obj\Debug\net5.0\LINQLambdaExpressionExample.dll
+C:\Users\diwjaisw\source\repos\LINQLambdaExpressionExample\LINQLambdaExpressionExample\obj\Debug\net5.0\ref\LINQLambdaExpressionExample.dll
+C:\Users\diwjaisw\source\repos\LINQLambdaExpressionExample\LINQLambdaExpressionExample\obj\Debug\net5.0\LINQLambdaExpressionExample.pdb
+C:\Users\diwjaisw\source\repos\LINQLambdaExpressionExample\LINQLambdaExpressionExample\obj\Debug\net5.0\LINQLambdaExpressionExample.genruntimeconfig.cache
