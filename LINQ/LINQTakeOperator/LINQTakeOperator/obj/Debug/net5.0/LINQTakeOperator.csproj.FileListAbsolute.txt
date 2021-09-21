@@ -1,0 +1,16 @@
+C:\Users\diwjaisw\source\repos\LINQ\LINQTakeOperator\LINQTakeOperator\bin\Debug\net5.0\LINQTakeOperator.exe
+C:\Users\diwjaisw\source\repos\LINQ\LINQTakeOperator\LINQTakeOperator\bin\Debug\net5.0\LINQTakeOperator.deps.json
+C:\Users\diwjaisw\source\repos\LINQ\LINQTakeOperator\LINQTakeOperator\bin\Debug\net5.0\LINQTakeOperator.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\LINQ\LINQTakeOperator\LINQTakeOperator\bin\Debug\net5.0\LINQTakeOperator.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\LINQ\LINQTakeOperator\LINQTakeOperator\bin\Debug\net5.0\LINQTakeOperator.dll
+C:\Users\diwjaisw\source\repos\LINQ\LINQTakeOperator\LINQTakeOperator\bin\Debug\net5.0\ref\LINQTakeOperator.dll
+C:\Users\diwjaisw\source\repos\LINQ\LINQTakeOperator\LINQTakeOperator\bin\Debug\net5.0\LINQTakeOperator.pdb
+C:\Users\diwjaisw\source\repos\LINQ\LINQTakeOperator\LINQTakeOperator\obj\Debug\net5.0\LINQTakeOperator.csproj.AssemblyReference.cache
+C:\Users\diwjaisw\source\repos\LINQ\LINQTakeOperator\LINQTakeOperator\obj\Debug\net5.0\LINQTakeOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\LINQ\LINQTakeOperator\LINQTakeOperator\obj\Debug\net5.0\LINQTakeOperator.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\LINQ\LINQTakeOperator\LINQTakeOperator\obj\Debug\net5.0\LINQTakeOperator.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\LINQ\LINQTakeOperator\LINQTakeOperator\obj\Debug\net5.0\LINQTakeOperator.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\LINQ\LINQTakeOperator\LINQTakeOperator\obj\Debug\net5.0\LINQTakeOperator.dll
+C:\Users\diwjaisw\source\repos\LINQ\LINQTakeOperator\LINQTakeOperator\obj\Debug\net5.0\ref\LINQTakeOperator.dll
+C:\Users\diwjaisw\source\repos\LINQ\LINQTakeOperator\LINQTakeOperator\obj\Debug\net5.0\LINQTakeOperator.pdb
+C:\Users\diwjaisw\source\repos\LINQ\LINQTakeOperator\LINQTakeOperator\obj\Debug\net5.0\LINQTakeOperator.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\diwjaisw\source\repos\LINQ\LINQOrderByOperatorExample\LINQOrderByOperatorExample\bin\Debug\net5.0\LINQOrderByOperatorExample.exe
+C:\Users\diwjaisw\source\repos\LINQ\LINQOrderByOperatorExample\LINQOrderByOperatorExample\bin\Debug\net5.0\LINQOrderByOperatorExample.deps.json
+C:\Users\diwjaisw\source\repos\LINQ\LINQOrderByOperatorExample\LINQOrderByOperatorExample\bin\Debug\net5.0\LINQOrderByOperatorExample.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\LINQ\LINQOrderByOperatorExample\LINQOrderByOperatorExample\bin\Debug\net5.0\LINQOrderByOperatorExample.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\LINQ\LINQOrderByOperatorExample\LINQOrderByOperatorExample\bin\Debug\net5.0\LINQOrderByOperatorExample.dll
+C:\Users\diwjaisw\source\repos\LINQ\LINQOrderByOperatorExample\LINQOrderByOperatorExample\bin\Debug\net5.0\ref\LINQOrderByOperatorExample.dll
+C:\Users\diwjaisw\source\repos\LINQ\LINQOrderByOperatorExample\LINQOrderByOperatorExample\bin\Debug\net5.0\LINQOrderByOperatorExample.pdb
+C:\Users\diwjaisw\source\repos\LINQ\LINQOrderByOperatorExample\LINQOrderByOperatorExample\obj\Debug\net5.0\LINQOrderByOperatorExample.csproj.AssemblyReference.cache
+C:\Users\diwjaisw\source\repos\LINQ\LINQOrderByOperatorExample\LINQOrderByOperatorExample\obj\Debug\net5.0\LINQOrderByOperatorExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\LINQ\LINQOrderByOperatorExample\LINQOrderByOperatorExample\obj\Debug\net5.0\LINQOrderByOperatorExample.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\LINQ\LINQOrderByOperatorExample\LINQOrderByOperatorExample\obj\Debug\net5.0\LINQOrderByOperatorExample.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\LINQ\LINQOrderByOperatorExample\LINQOrderByOperatorExample\obj\Debug\net5.0\LINQOrderByOperatorExample.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\LINQ\LINQOrderByOperatorExample\LINQOrderByOperatorExample\obj\Debug\net5.0\LINQOrderByOperatorExample.dll
+C:\Users\diwjaisw\source\repos\LINQ\LINQOrderByOperatorExample\LINQOrderByOperatorExample\obj\Debug\net5.0\ref\LINQOrderByOperatorExample.dll
+C:\Users\diwjaisw\source\repos\LINQ\LINQOrderByOperatorExample\LINQOrderByOperatorExample\obj\Debug\net5.0\LINQOrderByOperatorExample.pdb
+C:\Users\diwjaisw\source\repos\LINQ\LINQOrderByOperatorExample\LINQOrderByOperatorExample\obj\Debug\net5.0\LINQOrderByOperatorExample.genruntimeconfig.cache
