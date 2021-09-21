@@ -1,0 +1,16 @@
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingQuerySyntax\ExampleLINQUsingQuerySyntax\bin\Debug\net5.0\ExampleLINQUsingQuerySyntax.exe
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingQuerySyntax\ExampleLINQUsingQuerySyntax\bin\Debug\net5.0\ExampleLINQUsingQuerySyntax.deps.json
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingQuerySyntax\ExampleLINQUsingQuerySyntax\bin\Debug\net5.0\ExampleLINQUsingQuerySyntax.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingQuerySyntax\ExampleLINQUsingQuerySyntax\bin\Debug\net5.0\ExampleLINQUsingQuerySyntax.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingQuerySyntax\ExampleLINQUsingQuerySyntax\bin\Debug\net5.0\ExampleLINQUsingQuerySyntax.dll
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingQuerySyntax\ExampleLINQUsingQuerySyntax\bin\Debug\net5.0\ref\ExampleLINQUsingQuerySyntax.dll
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingQuerySyntax\ExampleLINQUsingQuerySyntax\bin\Debug\net5.0\ExampleLINQUsingQuerySyntax.pdb
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingQuerySyntax\ExampleLINQUsingQuerySyntax\obj\Debug\net5.0\ExampleLINQUsingQuerySyntax.csproj.AssemblyReference.cache
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingQuerySyntax\ExampleLINQUsingQuerySyntax\obj\Debug\net5.0\ExampleLINQUsingQuerySyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingQuerySyntax\ExampleLINQUsingQuerySyntax\obj\Debug\net5.0\ExampleLINQUsingQuerySyntax.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingQuerySyntax\ExampleLINQUsingQuerySyntax\obj\Debug\net5.0\ExampleLINQUsingQuerySyntax.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingQuerySyntax\ExampleLINQUsingQuerySyntax\obj\Debug\net5.0\ExampleLINQUsingQuerySyntax.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingQuerySyntax\ExampleLINQUsingQuerySyntax\obj\Debug\net5.0\ExampleLINQUsingQuerySyntax.dll
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingQuerySyntax\ExampleLINQUsingQuerySyntax\obj\Debug\net5.0\ref\ExampleLINQUsingQuerySyntax.dll
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingQuerySyntax\ExampleLINQUsingQuerySyntax\obj\Debug\net5.0\ExampleLINQUsingQuerySyntax.pdb
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingQuerySyntax\ExampleLINQUsingQuerySyntax\obj\Debug\net5.0\ExampleLINQUsingQuerySyntax.genruntimeconfig.cache

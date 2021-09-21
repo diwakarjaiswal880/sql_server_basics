@@ -1,0 +1,15 @@
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMixedSyntax\ExampleLINQUsingMixedSyntax\bin\Debug\net5.0\ExampleLINQUsingMixedSyntax.exe
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMixedSyntax\ExampleLINQUsingMixedSyntax\bin\Debug\net5.0\ExampleLINQUsingMixedSyntax.deps.json
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMixedSyntax\ExampleLINQUsingMixedSyntax\bin\Debug\net5.0\ExampleLINQUsingMixedSyntax.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMixedSyntax\ExampleLINQUsingMixedSyntax\bin\Debug\net5.0\ExampleLINQUsingMixedSyntax.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMixedSyntax\ExampleLINQUsingMixedSyntax\bin\Debug\net5.0\ExampleLINQUsingMixedSyntax.dll
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMixedSyntax\ExampleLINQUsingMixedSyntax\bin\Debug\net5.0\ref\ExampleLINQUsingMixedSyntax.dll
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMixedSyntax\ExampleLINQUsingMixedSyntax\bin\Debug\net5.0\ExampleLINQUsingMixedSyntax.pdb
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMixedSyntax\ExampleLINQUsingMixedSyntax\obj\Debug\net5.0\ExampleLINQUsingMixedSyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMixedSyntax\ExampleLINQUsingMixedSyntax\obj\Debug\net5.0\ExampleLINQUsingMixedSyntax.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMixedSyntax\ExampleLINQUsingMixedSyntax\obj\Debug\net5.0\ExampleLINQUsingMixedSyntax.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMixedSyntax\ExampleLINQUsingMixedSyntax\obj\Debug\net5.0\ExampleLINQUsingMixedSyntax.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMixedSyntax\ExampleLINQUsingMixedSyntax\obj\Debug\net5.0\ExampleLINQUsingMixedSyntax.dll
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMixedSyntax\ExampleLINQUsingMixedSyntax\obj\Debug\net5.0\ref\ExampleLINQUsingMixedSyntax.dll
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMixedSyntax\ExampleLINQUsingMixedSyntax\obj\Debug\net5.0\ExampleLINQUsingMixedSyntax.pdb
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMixedSyntax\ExampleLINQUsingMixedSyntax\obj\Debug\net5.0\ExampleLINQUsingMixedSyntax.genruntimeconfig.cache

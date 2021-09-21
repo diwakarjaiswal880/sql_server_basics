@@ -1,0 +1,15 @@
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMethodSyntax\ExampleLINQUsingMethodSyntax\bin\Debug\net5.0\ExampleLINQUsingMethodSyntax.exe
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMethodSyntax\ExampleLINQUsingMethodSyntax\bin\Debug\net5.0\ExampleLINQUsingMethodSyntax.deps.json
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMethodSyntax\ExampleLINQUsingMethodSyntax\bin\Debug\net5.0\ExampleLINQUsingMethodSyntax.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMethodSyntax\ExampleLINQUsingMethodSyntax\bin\Debug\net5.0\ExampleLINQUsingMethodSyntax.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMethodSyntax\ExampleLINQUsingMethodSyntax\bin\Debug\net5.0\ExampleLINQUsingMethodSyntax.dll
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMethodSyntax\ExampleLINQUsingMethodSyntax\bin\Debug\net5.0\ref\ExampleLINQUsingMethodSyntax.dll
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMethodSyntax\ExampleLINQUsingMethodSyntax\bin\Debug\net5.0\ExampleLINQUsingMethodSyntax.pdb
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMethodSyntax\ExampleLINQUsingMethodSyntax\obj\Debug\net5.0\ExampleLINQUsingMethodSyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMethodSyntax\ExampleLINQUsingMethodSyntax\obj\Debug\net5.0\ExampleLINQUsingMethodSyntax.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMethodSyntax\ExampleLINQUsingMethodSyntax\obj\Debug\net5.0\ExampleLINQUsingMethodSyntax.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMethodSyntax\ExampleLINQUsingMethodSyntax\obj\Debug\net5.0\ExampleLINQUsingMethodSyntax.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMethodSyntax\ExampleLINQUsingMethodSyntax\obj\Debug\net5.0\ExampleLINQUsingMethodSyntax.dll
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMethodSyntax\ExampleLINQUsingMethodSyntax\obj\Debug\net5.0\ref\ExampleLINQUsingMethodSyntax.dll
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMethodSyntax\ExampleLINQUsingMethodSyntax\obj\Debug\net5.0\ExampleLINQUsingMethodSyntax.pdb
+C:\Users\diwjaisw\source\repos\ExampleLINQUsingMethodSyntax\ExampleLINQUsingMethodSyntax\obj\Debug\net5.0\ExampleLINQUsingMethodSyntax.genruntimeconfig.cache

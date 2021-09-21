@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleLINQUsingMixedSyntax", "ExampleLINQUsingMixedSyntax\ExampleLINQUsingMixedSyntax.csproj", "{0BDEE61F-CCD0-48A8-8DD6-C5EB1D494AC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BDEE61F-CCD0-48A8-8DD6-C5EB1D494AC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BDEE61F-CCD0-48A8-8DD6-C5EB1D494AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BDEE61F-CCD0-48A8-8DD6-C5EB1D494AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BDEE61F-CCD0-48A8-8DD6-C5EB1D494AC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF122539-5D07-45BA-BA3E-E6D026A09B3F}
+	EndGlobalSection
+EndGlobal
